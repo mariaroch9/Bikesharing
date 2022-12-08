@@ -7,7 +7,8 @@ For this analysis, we cleaned the data using Pandas and then used Tableau to hel
 # Results:
 ## Dashboard of various visualizations
 '''
-/Users/Rochelle/Desktop/Bikesharing/Images/Dashboard.png
+
+<img width="1162" alt="Dashboard" src="https://user-images.githubusercontent.com/111670866/206343523-9315d351-15dd-4cd0-84d3-61e1956639e8.png">
 
 '''
 
@@ -19,33 +20,37 @@ If we look at gender-wise segregation, currently there is a higher number of mal
 
 ## Checkout times for Users
 '''
-/Users/Rochelle/Desktop/Bikesharing/Images/Checkout_times_for_Users.png
+<img width="1065" alt="Checkout_times_for_Users" src="https://user-images.githubusercontent.com/111670866/206343557-7fa4beef-a2bd-482c-aed7-3f904896dbfb.png">
+
 '''
 This chart shows the length of time that bikes are checked out for all riders. On the X-Axis we have the time in minutes and the Y-axis has the number of bikes.  The highest trips were of 5-minute durations. This could be because users took time to adjust the bikes to the stands on return. 
 
 ## Checkout Times by Gender: 
 '''
-/Users/Rochelle/Desktop/Bikesharing/Images/Checkout_times_by_gender.png
+<img width="1065" alt="Checkout_times_by_gender" src="https://user-images.githubusercontent.com/111670866/206343593-2f97e312-4622-421e-a2f8-843eadfda3f6.png">
+
 '''
 This visualization depicts the length of time that bikes are checked out for each gender. Males had the maximum usage compared to females and unknown genders. 
 
 ## Trips by Weekday for Each Hour 
 
 '''
-/Users/Rochelle/Desktop/Bikesharing/Images/Trips by weekday each hour.png
+<img width="1065" alt="Trips by weekday each hour" src="https://user-images.githubusercontent.com/111670866/206343637-361749d8-e3c2-44c7-9742-4ca44f63cec0.png">
 
 '''
 This chart shows the number of bike trips by weekday for each hour of the day as a heatmap. The most popular times of the day were in the mornings between 8 am and 9 am and in the evenings between 5 pm and 7 pm.  The bikes were barely used during the 12:00 am to 5:00 am time zones. This period could be used to maintain the bikes. 
 
-## Trips by Gender (Weekday per Hour):
+##  User Trips by Gender (Weekday per Hour):
 '''
-/Users/Rochelle/Desktop/Tableau/Bikesharing/Images/Trips by Gender.png
- '''
+<img width="1065" alt="Trips by Gender" src="https://user-images.githubusercontent.com/111670866/206343774-34e7795c-0008-4483-b00c-bbc4ced80a12.png">
+
+'''
  In this visualization, we can see the number of bike trips by gender for each hour of each day of the week as a heatmap. We could think of this chart as an extension of the earlier chart.
  
  ## User Trips by Gender by Weekday: 
 '''
-/Users/Rochelle/Desktop/Bikesharing/Images/Trips by Gender.png
+<img width="1065" alt="User trips by gender by Weekday" src="https://user-images.githubusercontent.com/111670866/206343821-683f191c-aa34-431e-bab4-124fa813e76c.png">
+
 '''
 This visualization is a heatmap that shows the number of bike trips broken down by gender for each day of the week by each User type. The maximum trips are taken by males who are subscribers. This chart could be pivotal to identify growth opportunities. The company could enhance its market share by targeting the other genders. 
 
@@ -55,13 +60,15 @@ Some additional visualizations that could be done are identifying the top 10 sta
 
 ## Top stations as per start time:
 '''
-/Users/Rochelle/Desktop/Bikesharing/Images/Top Stations_starttime.png
+<img width="1065" alt="Top Stations_starttime" src="https://user-images.githubusercontent.com/111670866/206343891-2de3fd85-0905-4bc9-8abb-752a1f807473.png">
+
 '''
 This can be used to track the most frequently used bikes. This data could be useful to track the maintenance and service of bikes.
 
 ## Top stations as per stop time: 
 '''
-/Users/Rochelle/Desktop/Bikesharing/Images/Top Stations_Endtime.png
+<img width="1065" alt="Top Stations_Endtime" src="https://user-images.githubusercontent.com/111670866/206343923-4b74e5ed-7915-4752-b4d9-0220047b3050.png">
+
 '''
 This chart can be used to track the popular stations as per stop time. This data can be used to identify the timings when bikes are returned as per the station names.
 
