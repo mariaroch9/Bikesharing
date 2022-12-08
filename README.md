@@ -76,4 +76,4 @@ This chart can be used to track the popular stations as per stop time. This data
 
 ### NYC Citi Bike Story: https://public.tableau.com/views/NYCCitiBikeStory_16704596520570/NYCCitiBikestory?:language=en-US&:display_count=n&:origin=viz_share_link
 
-### Tableau Challenge: https://public.tableau.com/views/Bikesharing_Challenge_16704585896270/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+### Bikesharing Challenge Story: https://public.tableau.com/views/Bikesharing_Challenge_16704585896270/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
