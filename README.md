@@ -1,6 +1,6 @@
 # Bikesharing
 # Background: 
-We are using Citi Bike Data to help predict if the same idea can be replicated and work in Des Moines. We needed a solid business proposal to convince investors that a bike-sharing program in Des Moines will be profitable. 
+I  used Citi Bike Data to help predict if the same idea can be replicated and work in Des Moines. I needed a solid business proposal to convince investors that a bike-sharing program in Des Moines will be profitable. 
 
 For this analysis, I cleaned the data using Pandas and then used Tableau to help with the visualizations and create interactive visualizations. 
 
